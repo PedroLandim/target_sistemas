@@ -1,0 +1,20 @@
+Questão 3:
+
+SOMA = 77
+
+------------------------------------
+Questão 4:
+
+a) 1, 3, 5, 7, 9
+b) 2, 4, 8, 16, 32, 64, 128
+c) 0, 1, 4, 9, 16, 25, 36, 49
+d) 4, 16, 36, 64, 100
+e) 1, 1, 2, 3, 5, 8, 13
+f) 2, 10, 12, 16, 17, 18, 19, 200
+
+------------------------------------
+Questão 5:
+
+Primeiro, eu ligo o Interruptor 1 e deixo ele ligado por uns 10 minutos para esquentar a lâmpada. Depois desligo o Interruptor 1 e ligo o Interruptor 2. Vou até as salas das lâmpadas.
+
+Na primeira sala, se a lâmpada estiver acesa, eu sei que ela é controlada pelo Interruptor 2. Na segunda sala, toco na lâmpada. Se estiver quente mas apagada, ela é controlada pelo Interruptor 1. A lâmpada que estiver apagada e fria é controlada pelo Interruptor 3. Assim eu descubro qual interruptor controla cada lâmpada com duas idas.
